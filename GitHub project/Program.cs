@@ -7,7 +7,7 @@ namespace GitHub_project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Another word!");
+            Console.WriteLine("Another word! This is me, DIO!");
         }
     }
 }
